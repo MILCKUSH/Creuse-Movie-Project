@@ -180,3 +180,5 @@ Voir : Modele_KNN.ipynb
 ####################################A compléter par Audrey ou Max#############################################
 
 ## En attente de Malick
+test de droits
+
